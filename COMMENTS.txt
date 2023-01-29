@@ -1,0 +1,10 @@
+<This file is to leave comments on our project regards the problem>
+Author: Janice(Jihyun) Ahn
+
+
+Problem: Testing methods named DataWranglerTest1(), DataWranglerTest2(), and DataWranglerTest3() in DictionaryTests.java have errors. 
+Result: The whole application (including test and makefile) does not compiled and run at all.
+Solution: Delete the three tests methods (DataWranglerTest1(), DataWranglerTest2(), and DataWranglerTest3()) or make them as comments in the DictionaryTests.java file. It will make the file successfully run and compiled.  
+
+Comments to grader: Thank you so much for your consideration again.
+
